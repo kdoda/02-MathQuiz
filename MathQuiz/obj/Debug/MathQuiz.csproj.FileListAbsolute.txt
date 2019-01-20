@@ -1,0 +1,9 @@
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csprojResolveAssemblyReference.cache
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.Form1.resources
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.GenerateResource.Cache
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe.config
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.exe
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\bin\Debug\MathQuiz.pdb
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.csproj.CoreCompileInputs.cache
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.exe
+C:\Users\dodak\Desktop\MathQuiz\MathQuiz\obj\Debug\MathQuiz.pdb
